@@ -10,7 +10,7 @@ header{background-color: black;
       overflow: hidden;
       background-color: #333;
     }
-      li.nabrajanje{
+      .nabrajanje{
         
         font-family: Arial, Helvetica, sans-serif;
         text-decoration: none;
@@ -41,16 +41,13 @@ header{background-color: black;
       
     }
     
-    div.a{
+   .a{
       background: rgba(0, 0, 0, 0.292);
-      padding: 3px, 30px, 3px, 30px;
+      padding: 30px 3px 30px 3px;
       text-align: left;
       max-width: 70%;
     max-height:45%;
    margin: 0px;
-   
-    float:center;
-   
     font-family: Arial, Helvetica, sans-serif;
     color:white;
     font-weight:bold;
@@ -58,22 +55,17 @@ header{background-color: black;
     margin-left: auto;
       margin-right: auto;
     }
-    div.b {  background: rgba(0, 0, 0, 0.292);
-      padding-left: 3px;
-      padding-right: 3px;
-      padding-top: 30px;
-      padding-bottom: 30px;
+    
+    .b {  background: rgba(0, 0, 0, 0.292);
+       padding: 30px 3px 30px 3px;
       max-width: 70%;
     max-height:45%;
       margin: 0px;
-      text-align: absolute;
-    
-    float:center;
-    
+      text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color:white;
     font-weight:bold;
-    font-size:30 px;
+    font-size:15;
     margin-left: auto;
       margin-right: auto;
      
@@ -85,26 +77,25 @@ header{background-color: black;
     
   }
   
-      img.logo {max-width:9%;
+      .logo {max-width:9%;
           height: auto;
           border-radius: 100%;
         float:right;
         }
       
-  img.salon{max-width:80%;
+  .salon{max-width:80%;
           height: auto;
          }
-    img.slika{display: block;
+    .slika{display: block;
       margin-left: auto;
       margin-right: auto;
       width: 70%;
     }
-    img.promo{
+    .promo{
       margin-left: auto;
       margin-right: auto;
       width:auto;
       height: 100px;
-      align:right;
       float:right;}
 
   footer{
