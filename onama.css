@@ -102,8 +102,8 @@ header{background-color: black;
     img.promo{display: block;
       margin-left: auto;
       margin-right: auto;
-      width:100px;
-      height: auto;}
+      width:auto;
+      height: 100px;}
 
   footer{
     background-color: black;
