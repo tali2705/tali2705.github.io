@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: bgkontakt.jpg , bgonama.jpg , bgusluge.jpg , logo.png
 
 sitemap: tali2705.github.io/sitemap.xml
