@@ -86,8 +86,9 @@ header{background-color: black;
       margin-left: auto;
       margin-right: auto;
       width: 70%;
+     
     }
-    .promo{
+    .promo{display: block;
       margin-left: auto;
       margin-right: auto;
       width:auto;
