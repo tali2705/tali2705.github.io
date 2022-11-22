@@ -1,2 +1,0 @@
-RewriteCond %{HTTP_HOST} ^www\.https://tali2705.github.io/ovcica/onama\.html$
-RewriteRule ^/?$ "http\:\/\/tali2705.github.io/ovcica/onama\.html\/" [R=301,L]
