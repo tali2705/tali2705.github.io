@@ -105,7 +105,8 @@ header{background-color: black;
       margin-right: auto;
       width:auto;
       height: 100px;
-      align:right;}
+      align:right;
+      float:right;}
 
   footer{
     background-color: black;
