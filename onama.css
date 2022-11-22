@@ -102,7 +102,8 @@ header{background-color: black;
     img.promo{display: block;
       margin-left: auto;
       margin-right: auto;
-      max-width: 40%;}
+      width: 40%;
+      height: auto;}
 
   footer{
     background-color: black;
