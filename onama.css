@@ -1,6 +1,7 @@
 header{background-color: black;
   height:20px;
   }
+  
   body{background-image: url('bgonama.jpg');}
   ul {
       list-style-type: none;
@@ -39,12 +40,10 @@ header{background-color: black;
       background-color:#111;
       
     }
+    
     div.a{
       background: rgba(0, 0, 0, 0.292);
-      padding-left: 3px;
-      padding-right: 3px;
-      padding-top: 30px;
-      padding-bottom: 30px;
+      padding: 3px, 30px, 3px, 30px;
       text-align: left;
       max-width: 70%;
     max-height:45%;
