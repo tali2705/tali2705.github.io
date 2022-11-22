@@ -91,9 +91,7 @@ header{background-color: black;
     .promo{display: block;
       margin-left: auto;
       margin-right: auto;
-      width:70%
-     
-      
+      width:70%;
       }
 
   footer{
@@ -102,3 +100,8 @@ header{background-color: black;
   margin-left: auto;
   margin-right: auto;
   }
+.dugmad{
+   margin-left: auto;
+      margin-right: auto;
+  
+}
