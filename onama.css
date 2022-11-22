@@ -92,7 +92,7 @@ header{background-color: black;
       margin-right: auto;
       width:auto;
       height: 100px;
-      float:none;}
+      object-position: center bottom;}
 
   footer{
     background-color: black;
