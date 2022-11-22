@@ -89,6 +89,7 @@ header{background-color: black;
       img.logo {max-width:9%;
           height: auto;
           border-radius: 100%;
+        float:right;
         }
       
   img.salon{max-width:80%;
