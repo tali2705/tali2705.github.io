@@ -102,7 +102,7 @@ header{background-color: black;
     img.promo{display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 40%;
+      width: 100px;
       height: auto;}
 
   footer{
