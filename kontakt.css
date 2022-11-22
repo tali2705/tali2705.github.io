@@ -38,13 +38,14 @@ ul {
    p{color:white;
 	font-family:Arial, Helvetica, sans-serif;}
 
-div.b{background-color:black;
-		opacity:60%;
+div.b{background: rgba(0, 0, 0, 0.292);
 		max-width:100%;
 		height:auto;
 		color:white;
 		font-family:Arial, Helvetica, sans-serif;
 		font-weight:bold;
+    max-width: 70%;
+    
 		}
 		#bold{font-weight:bold;}
 	input[type=text] {margin:20px 0px;
